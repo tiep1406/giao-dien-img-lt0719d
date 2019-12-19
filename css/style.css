@@ -39,9 +39,43 @@ body{
 	
 }
 .body-page{
-	background: yellow;
+	
 }
 .main-menu ul li:hover{
 	background: #FF0000;
-	border: solid 1px #FBF2EF ;
+	border: solid 1px #FBF2EF! ;
+}
+h4{
+	text-align: center;
+}
+.anh6{
+	display: flex;
+	margin: auto;
+	color: #444444;	 
+}
+h5{
+	color: #000000;
+	padding-left: 10px;
+}
+p{
+	padding-left: 10px;
+	padding-right: 150px;
+}
+#anh{
+	width: 900px
+	height: 200px;
+	display: flex;
+	margin: auto;
+}
+.item{
+	width: 50%;
+	float: left;
+}
+.item img{
+	float: left;
+}
+.item h5 {
+	color: #444444;
+	margin: 0px;
+	
 }
